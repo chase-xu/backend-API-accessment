@@ -1,3 +1,6 @@
+# An accessment from hatchway, everything in posts.js was implemented to fullfill the requirements.
+
+
 # Getting Started
 
 - System requirements
